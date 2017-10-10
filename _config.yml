@@ -83,12 +83,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Степан Бегларян"
+  name             : 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Дитячий лікар, автор Beglaryan.net"
-  location         : "Київ"
+  bio              : 
+  location         : 
   email            :
-  uri              : http://beglaryan.net
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
