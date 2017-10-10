@@ -8,11 +8,11 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "uk"
+title                    : "Кафедра дитячих інфекційних хвороб та дитячої імунології"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Кафедра"
+description              : "НМАПО імені П. Л. Шупика"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,12 +83,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Степан Бегларян"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Дитячий лікар, автор Beglaryan.net"
+  location         : "Київ"
   email            :
-  uri              :
+  uri              : http://beglaryan.net
   bitbucket        :
   codepen          :
   dribbble         :
